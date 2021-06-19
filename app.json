@@ -1,6 +1,6 @@
 {
   "expo": {
-    "icon": "./assets/ios.png",
+    "icon": "https://i.pinimg.com/originals/00/dd/8a/00dd8a85ebe872350d8ffda6435903a1.gif",
     "name": "quirk",
     "slug": "quirk",
     "privacy": "unlisted",
@@ -35,7 +35,7 @@
       "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
     },
     "androidStatusBar": {
-      "backgroundColor": "#fbfcfe"
+      "backgroundColor": "#4B0082"
     },
     "hooks": {
       "postPublish": [
